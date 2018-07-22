@@ -5670,3 +5670,1299 @@ Make sure 'PlayerPov_C' has been compiled for  Get fork_Blueprint
 [2018.07.22-17.34.34:530][707]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController721981DF4C9C2C8EEB3B2B87B78C23E3.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
 [2018.07.22-17.34.36:771][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.07.22-17.34.36:835][845]BlueprintLog: New page: Compile PongController
+[2018.07.22-17.34.47:091][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.07.22-17.34.49:961][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.34.50:791][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.34.50:841][189]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.34.50:864][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.34.50:864][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-17.34.50:865][189]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:34:50)
+[2018.07.22-17.34.50:865][189]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.34.50:873][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007300s)
+[2018.07.22-17.34.50:874][189]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.34.50:874][189]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2018.07.22-17.34.50:874][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009262s)
+[2018.07.22-17.34.50:919][189]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.34.50:932][189]LogInit: FAudioDevice initialized.
+[2018.07.22-17.34.50:963][189]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.34.50:965][189]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.34.50
+[2018.07.22-17.34.50:966][189]LogWorld: Bringing up level for play took: 0.001340
+[2018.07.22-17.34.50:984][189]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.34.50:985][189]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,929
+[2018.07.22-17.34.50:986][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.34.57:504][578]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.34.58:020][609]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.34.59:504][698]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.00:920][783]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.01:337][808]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.02:554][881]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.03:838][958]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.04:172][978]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.04:286][985]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.05:540][ 60]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.06:190][ 99]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.06:473][116]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.07:357][169]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.08:092][213]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.08:741][252]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.09:524][299]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.09:741][312]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.10:021][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.35.10:022][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.35.10:066][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.35.10:066][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.35.10:106][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.35.10:132][330]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2018.07.22-17.35.11:515][413]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-17.35.22:828][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.35.22:900][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.35.23:189][ 89]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default106506DB41D151F7E8A6BBA157740F4D.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-17.35.23:314][ 89]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltData01EB57A74BBD3E12C6670684B9B491D4.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.07.22-17.35.24:633][168]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.35.24:657][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.35.24:658][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-17.35.24:658][168]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:35:24)
+[2018.07.22-17.35.24:659][168]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.35.24:664][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004845s)
+[2018.07.22-17.35.24:665][168]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.35.24:666][168]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2018.07.22-17.35.24:666][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006779s)
+[2018.07.22-17.35.24:708][168]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.35.24:720][168]LogInit: FAudioDevice initialized.
+[2018.07.22-17.35.24:749][168]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.35.24:751][168]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.35.24
+[2018.07.22-17.35.24:752][168]LogWorld: Bringing up level for play took: 0.001288
+[2018.07.22-17.35.24:770][168]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.24:770][168]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,715
+[2018.07.22-17.35.24:771][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.35.27:202][312]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.28:934][416]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.30:585][515]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.32:251][615]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.36:653][879]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.36:702][882]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.36:968][898]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.38:652][999]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.38:752][  5]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.40:585][115]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.40:752][125]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.41:086][145]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.42:168][210]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.42:419][225]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.42:469][228]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.42:634][238]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.44:619][357]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.44:652][359]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.46:068][444]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.46:302][458]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.46:468][468]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.46:584][475]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.46:852][491]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.48:097][564]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.48:247][573]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.48:348][579]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.48:914][613]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.48:948][615]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.49:664][658]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.49:897][672]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.50:148][687]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.50:981][737]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.51:014][739]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.51:795][785]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.52:179][808]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.52:846][848]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.52:880][850]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.53:180][868]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.53:229][871]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.54:196][929]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.54:595][953]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.54:996][977]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.55:146][986]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.55:578][ 12]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.56:711][ 80]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.56:728][ 81]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.57:445][124]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.57:662][137]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.35.59:612][254]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.01:428][363]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.36.01:429][363]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.36.01:429][363]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.36.01:430][363]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.08:297][775]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.11:281][954]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.16:799][285]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.21:249][552]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.36.26:300][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.36.26:300][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.36.26:346][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.36.26:346][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.36.26:381][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.36.26:407][856]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2018.07.22-17.36.36:372][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.42.29:470][285]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.42.29:497][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.42.29:498][285]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-17.42.29:501][285]LogPlayLevel: [PlayLevel] Compiling PongController before play...
+[2018.07.22-17.42.29:662][285]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.07.22-17.42.29:662][285]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:42:29)
+[2018.07.22-17.42.29:662][285]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.42.29:668][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006025s)
+[2018.07.22-17.42.29:670][285]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.42.29:670][285]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2018.07.22-17.42.29:670][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008242s)
+[2018.07.22-17.42.29:711][285]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.42.29:723][285]LogInit: FAudioDevice initialized.
+[2018.07.22-17.42.29:753][285]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.42.29:755][285]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.42.29
+[2018.07.22-17.42.29:756][285]LogWorld: Bringing up level for play took: 0.001360
+[2018.07.22-17.42.29:774][285]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.29:775][285]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,281
+[2018.07.22-17.42.29:775][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.42.32:469][445]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.34:038][539]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.37:224][730]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.38:477][805]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.39:046][839]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.42:097][ 22]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.42:248][ 31]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.43:415][101]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.44:865][188]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.45:415][221]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.45:765][242]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.46:517][287]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.47:334][336]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.47:384][339]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.48:067][380]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.48:168][386]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.49:320][455]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.49:870][488]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.50:819][545]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.51:003][556]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.51:086][561]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.52:372][636]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.52:437][640]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.52:721][657]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.53:888][727]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.54:354][755]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.54:454][761]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.55:255][809]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.55:421][819]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.56:404][878]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.56:954][911]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.57:170][924]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.57:554][947]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.58:371][996]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.58:487][  3]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.58:537][  6]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.58:638][ 12]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.42.58:787][ 21]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.00:053][ 97]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.00:670][134]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.00:720][137]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.00:736][138]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.00:837][144]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.01:104][160]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.01:470][182]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.02:270][230]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.02:303][232]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.02:854][265]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.03:303][292]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.05:887][447]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.43.05:887][447]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.43.05:888][447]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.43.05:889][447]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.43.09:355][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.43.09:356][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.43.09:400][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.43.09:400][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.43.09:440][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.43.09:485][656]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2018.07.22-17.47.04:496][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.035
+[2018.07.22-17.47.04:499][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongGameMode] ([1] browsable assets)...
+[2018.07.22-17.47.04:499][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongGameMode]
+[2018.07.22-17.47.04:530][664]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongGameMode_Auto874FA5A954A04A3A871E01FA0585B160A.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongGameMode_Auto8.uasset'
+[2018.07.22-17.47.04:531][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-17.47.04:532][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-17.47.04:563][664]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto8EEA0F9AA444F6832AF34589C31EF1A79.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto8.uasset'
+[2018.07.22-17.47.04:565][664]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.07.22-17.47.23:310][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset" SILENT=true
+[2018.07.22-17.47.23:349][781]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_Blueprint209DAA4C486F035773DC0B8AB02DFF64.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset'
+[2018.07.22-17.47.25:023][881]BlueprintLog: New page: Compile fork_Blueprint
+[2018.07.22-17.47.42:178][890]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.47.42:212][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.47.42:212][890]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-17.47.42:216][890]LogPlayLevel: [PlayLevel] Compiling fork_Blueprint before play...
+[2018.07.22-17.47.42:377][890]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.07.22-17.47.42:377][890]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:47:42)
+[2018.07.22-17.47.42:378][890]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.47.42:385][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006271s)
+[2018.07.22-17.47.42:386][890]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.47.42:386][890]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2018.07.22-17.47.42:386][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008002s)
+[2018.07.22-17.47.42:425][890]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.47.42:438][890]LogInit: FAudioDevice initialized.
+[2018.07.22-17.47.42:472][890]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.47.42:474][890]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.47.42
+[2018.07.22-17.47.42:475][890]LogWorld: Bringing up level for play took: 0.001314
+[2018.07.22-17.47.42:493][890]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.42:494][890]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,437
+[2018.07.22-17.47.42:494][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.47.46:647][ 83]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.48:716][207]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.50:370][306]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.51:956][401]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.52:257][419]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.53:958][521]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.54:377][546]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.54:678][564]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.56:063][647]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.56:313][662]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.56:632][681]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.58:299][781]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.58:567][797]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.59:117][830]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.47.59:438][849]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.00:156][892]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.01:073][947]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.01:239][957]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.01:391][966]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.02:691][ 44]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.02:806][ 51]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.03:108][ 69]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.03:557][ 96]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.04:058][126]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.04:492][152]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.04:741][167]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.05:824][232]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.05:991][242]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.06:458][270]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.06:624][280]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.07:158][312]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.08:008][363]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.08:190][374]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.08:492][392]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.08:607][399]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.09:574][457]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.10:474][511]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.10:541][515]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.11:741][587]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.11:858][594]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.12:557][636]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.12:573][637]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.12:674][643]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.13:290][680]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.13:857][714]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.13:990][722]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.14:007][723]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.14:423][748]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.14:540][755]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.19:828][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.48.19:828][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.48.19:829][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.48.19:829][ 72]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.22:579][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.22:580][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.48.22:622][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.48.22:622][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.22:658][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.48.22:694][238]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2018.07.22-17.48.32:147][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.48.34:459][602]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.48.34:493][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.34:494][602]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-17.48.34:497][602]LogPlayLevel: [PlayLevel] Compiling fork_Blueprint before play...
+[2018.07.22-17.48.34:659][602]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2018.07.22-17.48.34:659][602]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:48:34)
+[2018.07.22-17.48.34:660][602]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.48.34:665][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005673s)
+[2018.07.22-17.48.34:667][602]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.48.34:667][602]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.07.22-17.48.34:667][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007298s)
+[2018.07.22-17.48.34:707][602]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.48.34:719][602]LogInit: FAudioDevice initialized.
+[2018.07.22-17.48.34:754][602]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.48.34:755][602]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.48.34
+[2018.07.22-17.48.34:756][602]LogWorld: Bringing up level for play took: 0.001159
+[2018.07.22-17.48.34:775][602]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.34:776][602]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,72
+[2018.07.22-17.48.34:776][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.37:187][712]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.38:616][796]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.41:702][981]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.42:053][  2]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.43:671][ 99]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.45:289][196]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.46:024][240]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.47:593][334]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.48:176][369]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.48:859][410]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.49:144][427]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.50:744][523]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.50:810][527]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.51:094][544]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.51:145][547]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.52:278][615]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.52:462][626]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.53:063][662]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.53:362][680]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.53:714][701]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.55:198][790]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.55:381][801]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.55:482][807]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.56:414][863]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.56:848][889]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.57:197][910]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.57:298][916]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.57:348][919]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.58:683][999]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.58:850][  9]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.59:083][ 23]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.59:451][ 45]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.48.59:583][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.59:584][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.48.59:625][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.48.59:625][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.48.59:667][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.48.59:700][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2018.07.22-17.54.22:235][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.55.05:899][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-17.55.07:322][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.55.07:388][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-17.55.07:424][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.55.07:424][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-17.55.07:425][ 49]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 21:55:07)
+[2018.07.22-17.55.07:425][ 49]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-17.55.07:432][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006124s)
+[2018.07.22-17.55.07:433][ 49]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-17.55.07:433][ 49]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2018.07.22-17.55.07:434][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008343s)
+[2018.07.22-17.55.07:480][ 49]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-17.55.07:492][ 49]LogInit: FAudioDevice initialized.
+[2018.07.22-17.55.07:524][ 49]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-17.55.07:526][ 49]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-19.55.07
+[2018.07.22-17.55.07:527][ 49]LogWorld: Bringing up level for play took: 0.001376
+[2018.07.22-17.55.07:545][ 49]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.07:546][ 49]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,51
+[2018.07.22-17.55.07:546][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.55.09:364][156]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.10:798][242]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.13:548][407]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.14:331][454]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.15:531][526]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.18:747][719]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.18:764][720]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.20:347][815]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.20:514][825]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.22:264][930]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.23:649][ 13]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.23:664][ 14]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.25:230][108]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.26:248][169]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.26:598][190]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.26:814][203]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.27:414][239]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.27:731][258]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.28:430][300]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.29:064][338]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.29:230][348]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.29:647][373]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.29:913][389]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.30:030][396]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.30:830][444]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.31:413][479]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.31:531][486]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.32:464][542]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.32:914][569]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.33:197][586]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.33:730][618]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.33:948][631]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.34:914][689]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.34:917][689]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.35:063][698]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.35:330][714]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.35:346][715]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.36:263][770]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.36:397][778]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.36:697][796]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.36:763][800]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.37:146][823]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.37:163][824]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.38:029][876]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.38:512][905]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.38:796][922]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.39:029][936]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.39:030][936]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.39:329][954]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.39:446][961]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.55.39:446][961]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.55.39:447][961]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-17.55.39:447][961]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.43:696][216]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.49:146][541]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.54:114][839]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.55.58:864][124]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.56.04:031][434]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.56.10:266][808]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.56.18:016][273]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.56.19:266][348]VisLogBP: LogText: 'Event called'
+[2018.07.22-17.56.23:618][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.56.23:619][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.56.23:655][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-17.56.23:655][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-17.56.23:694][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-17.56.23:720][610]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2018.07.22-17.57.11:322][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.57.55:370][ 94]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.22-17.58.25:265][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-17.58.57:938][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-17.59.26:918][147]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto9785FF677426416FF9BDD978EFC2C8E6D.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2018.07.22-17.59.26:922][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.304
+[2018.07.22-17.59.26:922][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.304
+[2018.07.22-17.59.26:925][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-17.59.26:925][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-17.59.26:962][147]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto9AF8B981D4B79439ADA90668B1067DC51.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto9.uasset'
+[2018.07.22-17.59.26:964][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/fork_Blueprint] ([1] browsable assets)...
+[2018.07.22-17.59.26:981][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/fork_Blueprint.fork_Blueprint]
+[2018.07.22-17.59.26:981][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/fork_Blueprint]
+[2018.07.22-17.59.26:981][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/fork_Blueprint_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2018.07.22-17.59.27:019][147]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_Blueprint_Auto991C3A7E14E94F062AD72A8A5ED9CB578.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/fork_Blueprint_Auto9.uasset'
+[2018.07.22-17.59.27:021][147]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.07.22-18.09.09:919][946]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-18.09.12:364][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.10.17:485][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.12.36:914][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.12.47:862][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
+[2018.07.22-18.12.47:901][517]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController9981C18546F605E79DD9909449412312.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
+[2018.07.22-18.14.04:979][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.14.05:005][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.14.05:006][116]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-18.14.05:020][116]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2018.07.22-18.14.05:218][116]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (1 blueprints)
+[2018.07.22-18.14.05:219][116]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:14:05)
+[2018.07.22-18.14.05:219][116]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.14.05:225][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005912s)
+[2018.07.22-18.14.05:226][116]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.14.05:227][116]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2018.07.22-18.14.05:227][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007716s)
+[2018.07.22-18.14.05:274][116]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.14.05:286][116]LogInit: FAudioDevice initialized.
+[2018.07.22-18.14.05:322][116]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.14.05:324][116]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.14.05
+[2018.07.22-18.14.05:325][116]LogWorld: Bringing up level for play took: 0.001632
+[2018.07.22-18.14.05:342][116]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.05:343][116]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,287
+[2018.07.22-18.14.05:343][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.14.07:977][228]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.11:795][457]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.14:384][612]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.16:035][711]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.18:120][836]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.21:617][914]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.22:087][942]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.23:821][ 46]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.24:478][ 85]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.14.25:095][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.14.25:096][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.14.25:161][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.14.25:161][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.14.25:204][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.14.25:301][123]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2018.07.22-18.14.50:625][620]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto01DC85CD849461B7D59F9C58A5F3DDA12.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2018.07.22-18.14.50:630][620]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.315
+[2018.07.22-18.14.50:630][620]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.315
+[2018.07.22-18.16.01:800][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SeparatingWall.SeparatingWall
+[2018.07.22-18.17.16:045][994]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.17.16:073][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.17.16:074][994]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-18.17.16:089][994]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2018.07.22-18.17.16:284][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 210 ms (1 blueprints)
+[2018.07.22-18.17.16:285][994]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:17:16)
+[2018.07.22-18.17.16:315][994]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.17.16:322][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005987s)
+[2018.07.22-18.17.16:323][994]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.17.16:323][994]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2018.07.22-18.17.16:323][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007862s)
+[2018.07.22-18.17.16:367][994]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.17.16:380][994]LogInit: FAudioDevice initialized.
+[2018.07.22-18.17.16:413][994]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.17.16:415][994]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.17.16
+[2018.07.22-18.17.16:415][994]LogWorld: Bringing up level for play took: 0.001307
+[2018.07.22-18.17.16:433][994]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.17.16:434][994]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,378
+[2018.07.22-18.17.16:435][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.17.23:633][103]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.17.26:005][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.17.26:006][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.17.26:069][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.17.26:069][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.17.26:114][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.17.26:205][246]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2018.07.22-18.25.01:254][499]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto1C19D066445CC9C6CA62A2F812CD37F52.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.07.22-18.25.01:259][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.324
+[2018.07.22-18.25.01:260][499]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.324
+[2018.07.22-18.27.37:717][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.31.19:289][610]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-18.31.22:933][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.33.07:304][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.33.07:368][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.33.07:395][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.33.07:396][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.33.07:396][ 90]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:33:07)
+[2018.07.22-18.33.07:397][ 90]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.33.07:404][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006263s)
+[2018.07.22-18.33.07:405][ 90]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.33.07:406][ 90]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2018.07.22-18.33.07:406][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008739s)
+[2018.07.22-18.33.07:458][ 90]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.33.07:470][ 90]LogInit: FAudioDevice initialized.
+[2018.07.22-18.33.07:501][ 90]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.33.07:503][ 90]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.33.07
+[2018.07.22-18.33.07:504][ 90]LogWorld: Bringing up level for play took: 0.001695
+[2018.07.22-18.33.07:522][ 90]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.07:523][ 90]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,533
+[2018.07.22-18.33.07:524][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.33.09:001][177]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.13:034][419]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.13:718][460]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.15:368][559]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.17:834][707]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.19:618][814]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.19:767][823]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.20:768][883]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.21:402][921]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.21:518][928]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.23:118][ 24]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.23:284][ 34]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.23:767][ 63]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.24:351][ 98]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.24:668][117]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.26:868][249]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.27:051][260]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.28:068][321]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.28:401][341]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.28:534][349]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.28:652][356]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.29:201][389]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.30:701][479]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.30:834][487]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.30:901][491]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.31:185][508]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.31:418][522]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.32:385][580]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.32:717][600]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.33:017][618]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.33:334][637]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.33:817][666]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.33:966][675]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.34:550][710]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.34:750][722]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.35:567][771]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.36:434][823]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.36:800][845]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.37:066][861]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.37:250][872]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.37:483][886]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.38:100][923]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.38:783][964]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.38:916][972]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.39:033][979]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.39:415][  2]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.39:499][  7]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.40:066][ 41]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.40:349][ 58]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.44:300][295]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-18.33.44:300][295]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-18.33.44:301][295]LogScript: Warning: Script Msg: Divide by zero detected: 360.000000 / 0
+Script call stack:
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ReceiveTick
+	Function /Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C:ExecuteUbergraph_Minimal_Default
+
+[2018.07.22-18.33.44:301][295]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.49:216][590]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.33.51:901][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.33.51:902][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.33.51:942][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.33.51:942][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.33.51:985][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.33.52:007][752]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2018.07.22-18.33.56:506][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.07.22-18.33.59:883][221]LogEditorViewport: Clicking on Actor (LMB): Player_Start_Blueprint_C (Player_Start_Blueprint)
+[2018.07.22-18.34.09:989][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.11:853][931]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.12:318][958]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.13:750][ 43]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.14:381][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.15:147][125]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.15:215][128]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.07.22-18.34.16:717][216]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-18.34.16:784][217]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.07.22-18.34.17:846][278]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.17:901][279]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.07.22-18.34.19:055][346]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.34.19:180][347]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.34.22:448][539]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.34.22:514][542]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.23:941][623]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.07.22-18.34.24:023][627]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.07.22-18.34.24:608][660]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.34.24:733][661]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.34.28:701][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.34.32:656][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.34.38:784][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.34.57:531][569]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.34.57:556][569]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.34.57:556][569]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-18.34.57:583][569]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-18.34.57:949][569]LogPlayLevel: PlayLevel: Blueprint regeneration took 393 ms (1 blueprints)
+[2018.07.22-18.34.57:950][569]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:34:57)
+[2018.07.22-18.34.57:950][569]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.34.57:956][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005908s)
+[2018.07.22-18.34.57:957][569]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.34.57:957][569]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.07.22-18.34.57:958][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007478s)
+[2018.07.22-18.34.58:029][569]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.34.58:041][569]LogInit: FAudioDevice initialized.
+[2018.07.22-18.34.58:074][569]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.34.58:076][569]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.34.58
+[2018.07.22-18.34.58:076][569]LogWorld: Bringing up level for play took: 0.001273
+[2018.07.22-18.34.58:095][569]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.34.58:095][569]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,04
+[2018.07.22-18.34.58:096][569]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.34.58:237][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.35.05:601][698]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.08:041][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.35.08:042][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.35.08:083][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.35.08:083][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.35.08:115][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.35.08:154][799]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2018.07.22-18.35.22:494][172]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.35.22:736][173]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.35.26:462][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.35.48:191][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.35.48:258][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.35.48:283][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.35.48:284][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.35.48:284][692]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:35:48)
+[2018.07.22-18.35.48:284][692]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.35.48:291][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006602s)
+[2018.07.22-18.35.48:292][692]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.35.48:292][692]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2018.07.22-18.35.48:292][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007947s)
+[2018.07.22-18.35.48:360][692]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.35.48:372][692]LogInit: FAudioDevice initialized.
+[2018.07.22-18.35.48:403][692]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.35.48:405][692]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.35.48
+[2018.07.22-18.35.48:406][692]LogWorld: Bringing up level for play took: 0.001495
+[2018.07.22-18.35.48:423][692]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.48:424][692]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,369
+[2018.07.22-18.35.48:424][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.35.50:585][820]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.52:118][912]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.54:213][ 36]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.55:580][118]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.56:529][175]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.57:864][255]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.57:914][258]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.59:447][350]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.59:546][356]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.35.59:880][376]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.01:214][456]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.01:429][469]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.01:930][499]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.03:480][592]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.03:612][600]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.04:213][636]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.05:229][697]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.06:079][748]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.06:746][788]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.07:096][809]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.07:645][842]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.07:812][852]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.08:645][902]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.08:762][909]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.36.08:843][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.36.08:844][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.36.08:885][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.36.08:885][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.36.08:925][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.36.08:943][915]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2018.07.22-18.36.14:994][278]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.36.15:142][279]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.36.33:425][371]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-18.36.36:710][562]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.36.44:376][ 16]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.36.44:790][ 40]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.36.45:015][ 50]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.36.50:540][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.37.00:706][982]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.37.00:730][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.37.00:731][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.37.00:731][982]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:37:00)
+[2018.07.22-18.37.00:731][982]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.37.00:736][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005011s)
+[2018.07.22-18.37.00:737][982]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.37.00:738][982]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2018.07.22-18.37.00:738][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007079s)
+[2018.07.22-18.37.00:811][982]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.37.00:823][982]LogInit: FAudioDevice initialized.
+[2018.07.22-18.37.00:855][982]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.37.00:856][982]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.37.00
+[2018.07.22-18.37.00:857][982]LogWorld: Bringing up level for play took: 0.001163
+[2018.07.22-18.37.00:875][982]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.00:875][982]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,819
+[2018.07.22-18.37.00:876][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.37.03:102][114]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.07:235][362]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.07:818][397]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.10:669][568]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.12:952][705]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.13:419][733]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.13:502][738]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.14:952][825]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.15:585][863]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.16:670][928]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.17:285][965]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.17:335][968]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.18:318][ 27]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.19:902][122]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.21:168][198]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.22:201][260]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.22:718][291]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.23:001][308]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.23:085][313]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.24:268][384]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.24:985][427]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.25:202][440]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.25:369][450]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.25:519][459]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.25:902][482]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.26:535][520]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.26:719][531]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.27:052][551]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.27:335][568]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.27:769][594]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.27:951][605]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.28:518][639]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.29:401][692]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.29:734][712]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.29:868][720]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.30:468][756]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.30:617][765]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.30:734][772]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.30:884][781]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.31:651][827]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.31:984][847]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.32:501][878]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.32:551][881]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.32:568][882]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.32:818][897]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.33:000][908]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.33:283][925]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.33:800][956]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.34:051][971]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.37.36:317][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.37.36:318][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.37.36:360][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.37.36:360][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.37.36:406][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.37.36:434][108]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2018.07.22-18.37.46:101][688]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.37.46:253][689]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2018.07.22-18.37.47:563][765]LogEditorViewport: Clicking on Component (context menu): CapsuleComponent (CollisionCylinder)
+[2018.07.22-18.37.47:584][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.37.57:400][352]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.37.57:481][353]LogEditorViewport: Clicking on Actor (double click): PlayerPov_C (PlayerPov)
+[2018.07.22-18.37.58:588][414]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.37.58:634][416]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.38.05:849][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.38.05:899][847]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-18.38.05:929][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.38.05:930][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-18.38.05:930][847]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 22:38:05)
+[2018.07.22-18.38.05:931][847]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-18.38.05:936][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005127s)
+[2018.07.22-18.38.05:937][847]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-18.38.05:938][847]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.07.22-18.38.05:938][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007010s)
+[2018.07.22-18.38.06:004][847]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-18.38.06:015][847]LogInit: FAudioDevice initialized.
+[2018.07.22-18.38.06:050][847]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-18.38.06:052][847]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-20.38.06
+[2018.07.22-18.38.06:052][847]LogWorld: Bringing up level for play took: 0.001370
+[2018.07.22-18.38.06:070][847]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.38.06:071][847]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,014
+[2018.07.22-18.38.06:071][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.38.07:517][932]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.38.09:084][ 26]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.38.10:752][126]VisLogBP: LogText: 'Event called'
+[2018.07.22-18.38.11:580][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.38.11:581][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.38.11:624][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-18.38.11:624][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-18.38.11:661][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-18.38.11:679][177]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2018.07.22-18.38.57:274][911]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-18.39.05:672][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.39.11:205][742]Cmd: TRANSACTION UNDO
+[2018.07.22-18.39.11:205][742]LogEditorTransaction: Undo Set Rotation
+[2018.07.22-18.40.10:331][264]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto2AF69B42E422CCF03227D5FB7493EC180.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.07.22-18.40.10:335][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.325
+[2018.07.22-18.40.10:335][264]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.325
+[2018.07.22-18.40.10:338][264]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerPov] ([1] browsable assets)...
+[2018.07.22-18.40.10:338][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerPov]
+[2018.07.22-18.40.10:338][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/PlayerPov_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.07.22-18.40.10:380][264]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov_Auto2001FABEC460C27B1B79093BAA9068408.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/PlayerPov_Auto2.uasset'
+[2018.07.22-18.40.10:382][264]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.07.22-18.40.15:629][578]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-18.40.15:685][578]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.40.16:661][630]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.07.22-18.40.16:704][632]LogEditorViewport: Clicking on Actor (double click): PlayerPov_C (PlayerPov)
+[2018.07.22-18.40.18:645][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.40.20:698][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.46.38:212][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.46.38:218][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset" SILENT=true
+[2018.07.22-18.46.38:256][  1]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_BlueprintEC8E09044C22DFFA1B90369B6549CE88.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset'
+[2018.07.22-18.46.39:961][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.46.40:860][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.46.41:304][148]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default46D347B5478932CC8CCBB4B98A4BFD43.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-18.46.41:348][148]LogFileHelpers: Saving map 'Minimal_Default' took 0.482
+[2018.07.22-18.46.41:980][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.46.54:574][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.46.54:580][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-18.46.54:624][929]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov471519FB4A86B3B2EB538D95B0713FF1.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
+[2018.07.22-18.46.59:314][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-18.47.25:009][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-18.47.25:015][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-18.47.25:050][744]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPovA0AB850C459680D82A39FE9EBB25A166.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
+[2018.07.22-18.47.25:635][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-19.03.36:530][291]LogSlate: Window 'Minimal_Default - Level Blueprint Editor' being destroyed
+[2018.07.22-19.03.36:535][291]LogSlate: Window 'Minimal_Default - Level Blueprint Editor' being destroyed
+[2018.07.22-19.03.36:536][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-19.03.36:749][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-19.03.36:933][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-19.03.37:108][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-19.04.46:296][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-19.04.46:362][658]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-19.04.46:390][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-19.04.46:391][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-19.04.46:391][658]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 23:04:46)
+[2018.07.22-19.04.46:392][658]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-19.04.46:397][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005496s)
+[2018.07.22-19.04.46:399][658]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-19.04.46:399][658]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2018.07.22-19.04.46:399][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007451s)
+[2018.07.22-19.04.46:478][658]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-19.04.46:490][658]LogInit: FAudioDevice initialized.
+[2018.07.22-19.04.46:524][658]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-19.04.46:526][658]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-21.04.46
+[2018.07.22-19.04.46:527][658]LogWorld: Bringing up level for play took: 0.001459
+[2018.07.22-19.04.46:545][658]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.04.46:546][658]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,49
+[2018.07.22-19.04.46:546][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-19.04.48:135][752]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.04.49:568][838]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.04.52:422][  8]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.04.57:123][290]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.01:589][558]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.02:706][625]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.03:139][651]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.03:306][661]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.04:355][724]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.04:360][724]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.04:722][746]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.04:923][758]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.06:557][856]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.06:975][881]VisLogBP: LogText: 'Event called'
+[2018.07.22-19.05.07:719][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-19.05.07:720][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-19.05.07:754][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-19.05.07:754][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-19.05.07:784][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-19.05.07:829][928]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2018.07.22-19.05.12:063][181]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-19.05.14:337][318]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-19.05.40:403][840]LogEditorViewport: Clicking on Actor (context menu): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-19.05.40:433][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-19.05.43:359][ 12]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/fork_Blueprint.fork_Blueprint
+[2018.07.22-19.05.53:330][585]LogSlate: Window 'fork_Blueprint' being destroyed
+[2018.07.22-19.05.53:336][585]LogSlate: Window 'fork_Blueprint' being destroyed
+[2018.07.22-19.05.57:253][671]LogSlate: Window 'Save Content' being destroyed
+[2018.07.22-19.05.57:360][671]LogSlate: Window 'Forknight - Unreal Editor' being destroyed
+[2018.07.22-19.05.58:133][672]Cmd: QUIT_EDITOR
+[2018.07.22-19.05.59:027][672]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.22-19.05.59:051][672]LogExit: Preparing to exit.
+[2018.07.22-19.05.59:560][672]LogExit: Editor shut down
+[2018.07.22-19.05.59:562][672]LogExit: Transaction tracking system shut down
+[2018.07.22-19.06.00:272][672]LogExit: Object subsystem successfully closed.
+[2018.07.22-19.06.00:318][672]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.22-19.06.00:327][672]LogD3D11RHI: Shutdown
+[2018.07.22-19.06.00:328][672]LogD3D11RHI: CleanupD3DDevice
+[2018.07.22-19.06.00:345][672]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.22-19.06.00:427][672]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (620)
+[2018.07.22-19.06.00:428][672]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.07.22-19.06.00:428][672]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.07.22-19.06.00:428][672]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.07.22-19.06.00:428][672]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2018.07.22-19.06.00:429][672]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.07.22-19.06.00:429][672]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.07.22-19.06.00:429][672]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.07.22-19.06.00:435][672]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.07.22-19.06.00:435][672]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.07.22-19.06.00:435][672]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.07.22-19.06.00:436][672]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.07.22-19.06.00:438][672]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.07.22-19.06.00:438][672]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.07.22-19.06.00:442][672]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.07.22-19.06.00:442][672]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.07.22-19.06.00:442][672]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.07.22-19.06.00:443][672]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.07.22-19.06.00:443][672]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.07.22-19.06.00:443][672]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.07.22-19.06.00:443][672]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.07.22-19.06.00:444][672]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.07.22-19.06.00:444][672]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.07.22-19.06.00:445][672]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.07.22-19.06.00:445][672]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.07.22-19.06.00:445][672]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.07.22-19.06.00:446][672]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.07.22-19.06.00:449][672]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.07.22-19.06.00:449][672]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.07.22-19.06.00:449][672]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.07.22-19.06.00:450][672]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.07.22-19.06.00:450][672]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.07.22-19.06.00:451][672]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.07.22-19.06.00:453][672]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.07.22-19.06.00:454][672]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.07.22-19.06.00:457][672]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.07.22-19.06.00:459][672]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.07.22-19.06.00:460][672]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.07.22-19.06.00:460][672]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.07.22-19.06.00:460][672]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.07.22-19.06.00:460][672]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.07.22-19.06.00:460][672]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.07.22-19.06.01:541][672]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.07.22-19.06.01:541][672]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.07.22-19.06.01:541][672]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.07.22-19.06.01:541][672]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.07.22-19.06.01:542][672]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.07.22-19.06.01:543][672]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.07.22-19.06.01:544][672]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.07.22-19.06.01:545][672]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.07.22-19.06.01:546][672]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.07.22-19.06.01:546][672]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.07.22-19.06.01:546][672]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.07.22-19.06.01:546][672]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.07.22-19.06.01:546][672]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.07.22-19.06.01:547][672]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.07.22-19.06.01:547][672]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.07.22-19.06.01:548][672]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.07.22-19.06.01:548][672]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.07.22-19.06.01:549][672]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.07.22-19.06.01:550][672]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.07.22-19.06.01:550][672]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.07.22-19.06.01:551][672]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.07.22-19.06.01:551][672]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.07.22-19.06.01:606][672]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.07.22-19.06.01:606][672]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.07.22-19.06.01:607][672]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.07.22-19.06.01:609][672]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.07.22-19.06.01:609][672]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.07.22-19.06.01:609][672]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.07.22-19.06.01:609][672]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.07.22-19.06.01:611][672]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.07.22-19.06.01:611][672]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.07.22-19.06.01:611][672]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.07.22-19.06.01:621][672]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.07.22-19.06.01:621][672]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.07.22-19.06.01:623][672]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.07.22-19.06.01:623][672]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.07.22-19.06.01:624][672]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.07.22-19.06.01:628][672]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.07.22-19.06.01:628][672]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.07.22-19.06.01:628][672]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.07.22-19.06.01:639][672]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.07.22-19.06.01:640][672]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.07.22-19.06.01:641][672]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.07.22-19.06.01:642][672]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.07.22-19.06.01:643][672]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.07.22-19.06.01:643][672]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.07.22-19.06.01:643][672]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.07.22-19.06.01:644][672]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.07.22-19.06.01:784][672]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.07.22-19.06.01:786][672]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.07.22-19.06.01:790][672]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.07.22-19.06.01:790][672]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.07.22-19.06.01:790][672]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.07.22-19.06.01:790][672]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.07.22-19.06.01:794][672]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.07.22-19.06.01:795][672]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.07.22-19.06.01:795][672]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.07.22-19.06.01:795][672]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.07.22-19.06.01:795][672]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.07.22-19.06.01:795][672]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.07.22-19.06.01:796][672]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.07.22-19.06.01:798][672]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.07.22-19.06.01:798][672]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.07.22-19.06.01:798][672]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.07.22-19.06.01:799][672]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.07.22-19.06.01:799][672]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.07.22-19.06.01:799][672]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.07.22-19.06.01:800][672]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.07.22-19.06.01:800][672]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.07.22-19.06.01:800][672]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.07.22-19.06.01:801][672]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.07.22-19.06.01:803][672]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.07.22-19.06.01:804][672]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.07.22-19.06.01:806][672]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.07.22-19.06.01:807][672]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.07.22-19.06.01:807][672]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.07.22-19.06.01:807][672]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.07.22-19.06.01:807][672]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.07.22-19.06.01:808][672]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.07.22-19.06.01:808][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.07.22-19.06.01:808][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.07.22-19.06.01:808][672]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.07.22-19.06.01:808][672]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.07.22-19.06.01:909][672]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.07.22-19.06.02:010][672]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.07.22-19.06.02:010][672]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.07.22-19.06.02:011][672]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.07.22-19.06.02:011][672]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.07.22-19.06.02:011][672]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.07.22-19.06.02:011][672]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.07.22-19.06.02:012][672]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.07.22-19.06.02:015][672]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.07.22-19.06.02:016][672]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.07.22-19.06.02:017][672]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.07.22-19.06.02:017][672]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.07.22-19.06.02:018][672]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.07.22-19.06.02:020][672]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.07.22-19.06.02:021][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.07.22-19.06.02:021][672]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.07.22-19.06.02:021][672]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.07.22-19.06.02:022][672]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.07.22-19.06.02:023][672]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.07.22-19.06.02:024][672]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.07.22-19.06.02:030][672]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.07.22-19.06.02:030][672]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.07.22-19.06.02:030][672]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.07.22-19.06.02:032][672]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.07.22-19.06.02:032][672]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.07.22-19.06.02:032][672]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.07.22-19.06.02:032][672]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.07.22-19.06.02:032][672]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.07.22-19.06.02:034][672]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.07.22-19.06.02:034][672]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.07.22-19.06.02:036][672]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.07.22-19.06.02:036][672]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.07.22-19.06.02:037][672]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.07.22-19.06.02:039][672]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.07.22-19.06.02:039][672]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.07.22-19.06.02:041][672]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.07.22-19.06.02:044][672]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.07.22-19.06.02:044][672]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.07.22-19.06.02:046][672]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.07.22-19.06.02:046][672]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.07.22-19.06.02:052][672]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.07.22-19.06.02:053][672]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.07.22-19.06.02:054][672]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.07.22-19.06.02:054][672]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.07.22-19.06.02:055][672]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.07.22-19.06.02:057][672]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.07.22-19.06.02:057][672]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.07.22-19.06.02:057][672]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.07.22-19.06.02:058][672]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.07.22-19.06.02:058][672]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.07.22-19.06.02:107][672]LogDerivedDataCache: Shutdown
+[2018.07.22-19.06.02:107][672]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.07.22-19.06.02:108][672]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.07.22-19.06.02:108][672]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.07.22-19.06.02:109][672]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.07.22-19.06.02:109][672]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.07.22-19.06.02:109][672]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.07.22-19.06.02:110][672]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.07.22-19.06.02:110][672]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.07.22-19.06.02:110][672]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.07.22-19.06.02:110][672]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.07.22-19.06.02:111][672]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.07.22-19.06.02:112][672]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.07.22-19.06.02:113][672]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.07.22-19.06.02:113][672]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.07.22-19.06.02:113][672]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.07.22-19.06.02:113][672]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.07.22-19.06.02:113][672]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.07.22-19.06.02:122][672]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.07.22-19.06.02:122][672]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.07.22-19.06.02:126][672]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.07.22-19.06.02:126][672]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.07.22-19.06.02:156][672]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.07.22-19.06.02:156][672]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.07.22-19.06.02:156][672]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.07.22-19.06.02:156][672]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.07.22-19.06.02:158][672]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.07.22-19.06.02:159][672]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.07.22-19.06.02:162][672]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.07.22-19.06.02:175][672]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.07.22-19.06.02:176][672]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.22-19.06.02:176][672]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF0F2068-4E4C-B39D-C070-8EAFCF6F9DEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.0-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=6ba4747e453338fb41fff08db389f844%7Cb8ba4bcb07874ea08ccd125acb6b2394%7C2f7432e3-f1d4-4407-82b0-c90ba1e46ed7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.22-19.06.02:187][672]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.07.22-19.06.02:190][672]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.07.22-19.06.02:191][672]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.07.22-19.06.02:191][672]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.07.22-19.06.02:191][672]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.22-19.06.02:192][672]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.07.22-19.06.02:192][672]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.22-19.06.02:194][672]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.22-19.06.02:196][672]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.22-19.06.02:197][672]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.22-19.06.02:197][672]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.22-19.06.02:197][672]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.22-19.06.02:197][672]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.22-19.06.02:201][672]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.22-19.06.02:202][672]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.22-19.06.02:202][672]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.22-19.06.02:203][672]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.22-19.06.02:212][672]LogExit: Exiting.
+[2018.07.22-19.06.02:228][672]Log file closed, 07/22/18 21:06:02
