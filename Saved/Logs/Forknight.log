@@ -5430,3 +5430,29 @@ Make sure 'PlayerPov_C' has been compiled for  Get fork_Blueprint
 [2018.07.22-16.51.25:993][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
 [2018.07.22-16.51.26:028][455]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController88B936004C4D3A9CDEB7D9A983085017.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
 [2018.07.22-16.51.28:089][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.52.10:481][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.52.10:503][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset" SILENT=true
+[2018.07.22-16.52.10:546][253]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_Blueprint8E35181344DDD7665EE051B8F6B3C7F3.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset'
+[2018.07.22-16.52.52:063][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.52.56:825][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.52.56:831][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
+[2018.07.22-16.52.56:855][123]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController88B0827D4282B6FE66CE00A16D4C38A3.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
+[2018.07.22-16.53.06:391][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.53.54:572][920]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto618023C5F4B300E9DD449919A67EEF853.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2018.07.22-16.53.54:576][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.302
+[2018.07.22-16.53.54:576][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2018.07.22-17.17.17:735][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.17.18:035][347]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_DefaultEBF9873048DB0A714DD9888407EB6486.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-17.17.18:174][347]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltDataF9429F38458C68157E4CD095EEE3AD32.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.07.22-17.17.21:172][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.17.21:469][519]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default4386704F44B9512EDF983E9219340546.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-17.17.21:612][519]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltDataDC7815B2412185592DFF83A69DCE77E7.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.07.22-17.17.23:223][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.17.23:522][607]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_DefaultA573771F4920FB3418BCF79D350F83D0.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-17.17.23:664][607]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltDataE7D9B1054C0573BE22F84681D652B5D6.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.07.22-17.17.26:842][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.17.27:122][793]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default5501A84C4FBE51BDBFDFADAB5ACCA6C5.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-17.17.27:265][793]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltDataF1A07BE242FE0C0BFA195BBB84B844D8.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.07.22-17.17.29:806][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-17.17.29:811][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-17.17.29:852][870]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov792F645248E56DD2755A868384B8BA83.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
