@@ -3453,3 +3453,609 @@ Script call stack:
 [2018.07.22-13.33.18:613][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/PlayerPov_Auto8.uasset" SILENT=false AUTOSAVING=true
 [2018.07.22-13.33.18:653][591]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov_Auto8C13C4BC747460E0C5E97CB9C73D92AA1.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/PlayerPov_Auto8.uasset'
 [2018.07.22-13.33.18:654][591]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.07.22-14.37.34:491][274]LogSlate: Window 'Save Content' being destroyed
+[2018.07.22-14.37.34:635][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-14.37.34:686][274]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov96F8C9E94A87372868BF39AB4F346985.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
+[2018.07.22-14.37.35:081][274]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default71F383214E1C5B5F6589AC9B275408F2.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-14.37.35:134][274]LogFileHelpers: Saving map 'Minimal_Default' took 0.436
+[2018.07.22-15.06.49:453][867]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PongController.PongController
+[2018.07.22-15.06.55:191][177]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PongController.PongController
+[2018.07.22-15.09.01:077][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2018.07.22-15.09.01:079][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-15.09.01:079][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-15.09.01:109][372]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto9C7A807FC4D9E07B76C37D0A2FB362345.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto9.uasset'
+[2018.07.22-15.09.01:111][372]LogFileHelpers: Auto-saving content packages took 0.033
+[2018.07.22-15.17.32:911][517]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-15.17.41:165][  3]LogEditorViewport: Clicking on Actor (LMB): PlayerPov_C (PlayerPov)
+[2018.07.22-15.17.41:234][  6]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2018.07.22-15.17.45:905][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.17.58:875][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.18.23:269][351]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.18.24:101][400]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.18.24:988][453]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.18.26:701][551]Cmd: TRANSACTION UNDO
+[2018.07.22-15.18.26:701][551]LogEditorTransaction: Undo Create Actors
+[2018.07.22-15.18.28:051][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.18.30:776][792]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.30:795][792]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.22-15.18.30:795][792]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.22-15.18.30:795][792]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.22-15.18.32:653][902]LogAssetEditorManager: Opening Asset editor for Material /Game/Mesh/Fork_texture_Mat.Fork_texture_Mat
+[2018.07.22-15.18.32:658][902]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.32:685][902]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.22-15.18.32:685][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.22-15.18.33:091][902]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.33:109][902]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.22-15.18.33:109][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.22-15.18.33:112][902]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.33:158][902]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.22-15.18.33:250][902]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.22-15.18.33:344][903]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.22-15.18.33:379][904]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.22-15.18.33:482][910]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.22-15.18.33:601][917]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.22-15.18.33:634][919]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.22-15.18.33:684][922]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.22-15.18.33:823][930]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.22-15.18.33:872][933]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.22-15.18.33:922][936]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.22-15.18.33:991][940]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.22-15.18.34:075][945]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.22-15.18.34:382][962]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.22-15.18.34:382][962]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.22-15.18.34:440][965]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.22-15.18.34:538][971]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.22-15.18.34:754][983]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.22-15.18.34:889][991]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.22-15.18.34:938][994]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.22-15.18.35:008][998]Cmd: TRANSACTION UNDO
+[2018.07.22-15.18.35:008][998]LogEditorTransaction: Undo Clicking on Components
+[2018.07.22-15.18.35:082][998]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.22-15.18.35:085][998]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.35:230][999]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.22-15.18.35:252][999]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.22-15.18.35:298][  1]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.22-15.18.35:488][  8]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.22-15.18.35:514][  9]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.22-15.18.35:535][ 11]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.22-15.18.35:570][ 13]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.22-15.18.35:767][ 24]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.22-15.18.35:767][ 24]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.22-15.18.35:800][ 26]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.22-15.18.35:800][ 26]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.22-15.18.35:978][ 36]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.22-15.18.35:978][ 36]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.22-15.18.35:992][ 37]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.22-15.18.36:011][ 38]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.22-15.18.36:294][ 53]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.22-15.18.36:481][ 63]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.22-15.18.36:575][ 68]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.22-15.18.36:592][ 69]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.22-15.18.36:773][ 77]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.22-15.18.36:864][ 82]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.22-15.18.36:986][ 89]Cmd: TRANSACTION UNDO
+[2018.07.22-15.18.36:987][ 89]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-15.18.36:992][ 89]LogMaterial: Display: Missing cached shader map for material Fork_texture_Mat, compiling. 
+[2018.07.22-15.18.37:060][ 90]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.22-15.18.37:133][ 94]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.22-15.18.37:182][ 97]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.22-15.18.37:283][103]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.22-15.18.37:336][106]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.22-15.18.37:419][111]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.22-15.18.37:469][114]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.22-15.18.37:486][115]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.22-15.18.37:537][118]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.22-15.18.37:622][123]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.22-15.18.37:672][126]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.22-15.18.37:688][127]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.22-15.18.37:751][131]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.22-15.18.37:978][143]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.22-15.18.38:139][152]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.22-15.18.38:225][157]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.22-15.18.38:257][159]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.22-15.18.38:409][167]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.22-15.18.38:519][172]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.22-15.18.38:712][183]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.22-15.18.38:779][187]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.22-15.18.39:141][208]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.07.22-15.18.39:141][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.07.22-15.18.39:142][208]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.07.22-15.18.39:142][208]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.22-15.18.39:142][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.07.22-15.18.39:142][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.22-15.18.42:697][262]LogSlate: Window 'Message' being destroyed
+[2018.07.22-15.18.51:873][773]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mesh/fork.fork
+[2018.07.22-15.19.10:028][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.19.10:106][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/fork" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Mesh/fork.uasset" SILENT=true
+[2018.07.22-15.19.10:139][816]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork1CB1CD454BA15F8D16996BB3B24366B1.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Mesh/fork.uasset'
+[2018.07.22-15.19.41:111][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2018.07.22-15.19.41:113][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-15.19.41:114][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-15.19.41:139][312]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto025E167D0423705122DE788B90DD851C9.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto0.uasset'
+[2018.07.22-15.19.41:140][312]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.07.22-15.20.55:028][308]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.20.58:225][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.21.16:884][609]LogEditorTransaction: Undo Add Component
+[2018.07.22-15.21.18:126][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.21.20:017][792]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.21.21:261][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.21.44:268][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.22.07:331][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.22.25:029][681]BlueprintLog: New page: Compile PlayerPov
+[2018.07.22-15.22.30:005][925]LogTemp: Repeating last play command: Standalone Game
+[2018.07.22-15.22.31:534][925]LogSlate: Window 'Save Content' being destroyed
+[2018.07.22-15.22.31:714][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
+[2018.07.22-15.22.31:735][925]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController302F051F4EC69E4548ECB0A50FEC5B6F.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
+[2018.07.22-15.22.31:754][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-15.22.31:801][925]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPov041709AE4AB2C2821907FB82BD27E85F.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
+[2018.07.22-15.22.32:160][925]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default36811FB648F405DA89B6068A756B52A7.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-15.22.32:198][925]LogFileHelpers: Saving map 'Minimal_Default' took 0.391
+[2018.07.22-15.23.59:813][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.23.59:886][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerPov" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset" SILENT=true
+[2018.07.22-15.23.59:923][292]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PlayerPovF2C26FBA48C9B6909F9D1DB014CBCD7D.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/PlayerPov.uasset'
+[2018.07.22-15.24.25:915][832]LogEditorTransaction: Undo Paste Component(s)
+[2018.07.22-15.24.27:368][917]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.fork_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.fork_GEN_VARIABLE
+[2018.07.22-15.24.37:938][543]LogEditorTransaction: Undo Paste Component(s)
+[2018.07.22-15.24.40:477][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.24.45:244][978]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshComponent /Engine/Transient.fork_GEN_VARIABLE or StaticMeshComponent /Engine/Transient.fork_GEN_VARIABLE
+[2018.07.22-15.25.16:224][829]BlueprintLog: New page: Compile PongController
+[2018.07.22-15.25.17:586][899]LogEditorTransaction: Undo Rename Component Variable
+[2018.07.22-15.25.19:594][ 17]LogEditorTransaction: Undo Rename Component Variable
+[2018.07.22-15.25.20:778][ 88]LogEditorTransaction: Undo Paste Component(s)
+[2018.07.22-15.25.28:883][520]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.25.29:765][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.25.48:909][663]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.25.54:409][992]LogActorFactory: Actor Factory created fork
+[2018.07.22-15.26.03:464][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.26.56:707][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.26.58:025][177]LogSlate: Window 'Select Path' being destroyed
+[2018.07.22-15.26.58:097][177]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/fork_Blueprint.fork_Blueprint
+[2018.07.22-15.27.32:938][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset" SILENT=true
+[2018.07.22-15.27.32:959][226]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_Blueprint07DC968E48DA237E73077781383EF6AA.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset'
+[2018.07.22-15.28.14:703][713]LogEditorTransaction: Undo Paste Component(s)
+[2018.07.22-15.32.20:859][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.32.30:683][961]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto162CF066C4453CEB57D89199B8E1BE80E.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.07.22-15.32.30:686][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.296
+[2018.07.22-15.32.30:686][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2018.07.22-15.32.30:688][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-15.32.30:689][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-15.32.30:714][961]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto1FD574DCA4FCCBE0D3936AE9D216366FA.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto1.uasset'
+[2018.07.22-15.32.30:715][961]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.07.22-15.32.45:409][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.39.33:785][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fork_Blueprint" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset" SILENT=true
+[2018.07.22-15.39.33:817][513]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/fork_Blueprint9CBBA8FB4AC852CE3640E99BF405DF1C.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/fork_Blueprint.uasset'
+[2018.07.22-15.40.35:563][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.40.35:569][999]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.40.35:570][999]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.40.35:590][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.40.49:917][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.43.27:401][587]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_Auto2FFDAF0754E20627E0E7947BAD4453786.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.07.22-15.43.27:405][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.294
+[2018.07.22-15.43.27:405][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.294
+[2018.07.22-15.43.27:407][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PongController] ([1] browsable assets)...
+[2018.07.22-15.43.27:407][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PongController]
+[2018.07.22-15.43.27:433][587]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController_Auto21422E8014BCB8C70CA96258205F05E0C.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Autosaves/Game/Blueprints/PongController_Auto2.uasset'
+[2018.07.22-15.43.27:434][587]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.07.22-15.43.35:097][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.43.35:103][ 45]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_2.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.43.35:104][ 45]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_2.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.43.35:122][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.43.43:128][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-15.47.56:776][560]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_4.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.47.56:777][560]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_4.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.47.59:247][705]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_6.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.47.59:248][705]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_6.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.02:250][884]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_8.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.02:251][884]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_8.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.06:593][144]LogEditorTransaction: Undo Delete current selection
+[2018.07.22-15.48.06:595][144]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_10.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.06:598][144]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_12.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.06:599][144]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_10.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:357][188]LogEditorTransaction: Undo Rename Node
+[2018.07.22-15.48.07:359][188]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_14.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:361][188]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_16.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:362][188]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_12.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:864][217]LogEditorTransaction: Undo Add Node
+[2018.07.22-15.48.07:866][217]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_18.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:869][217]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_20.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.07:870][217]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_14.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.08:154][233]LogEditorTransaction: Undo Create Pin Link
+[2018.07.22-15.48.08:156][233]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_22.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.48.08:157][233]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_16.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.50.26:877][417]LogTemp: Repeating last play command: Standalone Game
+[2018.07.22-15.50.28:697][417]LogSlate: Window 'Save Content' being destroyed
+[2018.07.22-15.50.28:826][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
+[2018.07.22-15.50.28:858][417]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongControllerA43F91A04BF06063F98B8B8C95F9E04B.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
+[2018.07.22-15.50.29:213][417]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default896A031A495509365BFFA9BE57BFEAD4.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-15.50.29:253][417]LogFileHelpers: Saving map 'Minimal_Default' took 0.386
+[2018.07.22-15.51.06:379][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.51.11:507][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.11:508][759]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.51.11:514][759]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.51.11:647][759]LogPlayLevel: [PlayLevel] Compiling PongController before play...
+[2018.07.22-15.51.11:653][759]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_24.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:654][759]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_18.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:759][759]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_26.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:760][759]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_20.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:765][759]PIE: Warning: AttachTo: '/Engine/Transient.World_8:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_8:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_28.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:766][759]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_22.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.51.11:803][759]LogPlayLevel: PlayLevel: Blueprint regeneration took 295 ms (2 blueprints)
+[2018.07.22-15.51.11:804][759]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:51:11)
+[2018.07.22-15.51.11:804][759]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.51.11:811][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006627s)
+[2018.07.22-15.51.11:812][759]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.51.11:812][759]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.07.22-15.51.11:812][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008440s)
+[2018.07.22-15.51.11:852][759]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.51.11:864][759]LogInit: FAudioDevice initialized.
+[2018.07.22-15.51.11:864][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.51.11:897][759]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.51.11:899][759]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.51.11
+[2018.07.22-15.51.11:900][759]LogWorld: Bringing up level for play took: 0.001715
+[2018.07.22-15.51.11:918][759]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.11:921][759]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,135
+[2018.07.22-15.51.11:922][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.13:729][866]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.18:063][126]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.18:663][162]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.20:108][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.20:109][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.51.20:149][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.51.20:149][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.20:186][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.51.20:209][250]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2018.07.22-15.51.28:260][733]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint)
+[2018.07.22-15.51.39:242][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.51.40:002][433]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.51.40:030][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.40:030][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-15.51.40:031][433]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:51:40)
+[2018.07.22-15.51.40:031][433]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.51.40:037][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006040s)
+[2018.07.22-15.51.40:038][433]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.51.40:038][433]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.07.22-15.51.40:038][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007537s)
+[2018.07.22-15.51.40:075][433]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.51.40:088][433]LogInit: FAudioDevice initialized.
+[2018.07.22-15.51.40:088][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.51.40:119][433]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.51.40:121][433]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.51.40
+[2018.07.22-15.51.40:121][433]LogWorld: Bringing up level for play took: 0.001355
+[2018.07.22-15.51.40:139][433]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.40:139][433]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,083
+[2018.07.22-15.51.40:140][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.42:001][543]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.43:818][652]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.45:218][736]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.46:551][816]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.46:968][841]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.51.48:121][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.48:121][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.51.48:162][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.51.48:162][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.51.48:200][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.51.48:216][911]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2018.07.22-15.51.49:283][975]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint)
+[2018.07.22-15.52.06:554][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.52.09:600][188]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.52.09:625][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.52.09:625][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-15.52.09:625][188]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:52:09)
+[2018.07.22-15.52.09:626][188]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.52.09:631][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005051s)
+[2018.07.22-15.52.09:632][188]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.52.09:632][188]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2018.07.22-15.52.09:632][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006733s)
+[2018.07.22-15.52.09:674][188]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.52.09:685][188]LogInit: FAudioDevice initialized.
+[2018.07.22-15.52.09:685][188]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.52.09:716][188]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.52.09:718][188]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.52.09
+[2018.07.22-15.52.09:718][188]LogWorld: Bringing up level for play took: 0.001501
+[2018.07.22-15.52.09:736][188]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.09:736][188]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,32
+[2018.07.22-15.52.09:736][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.52.12:399][346]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.15:950][559]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.16:068][566]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.18:034][684]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.20:270][760]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.20:654][783]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.21:604][840]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.22:153][873]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.23:004][924]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.23:170][934]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.23:953][981]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.52.24:717][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.52.24:717][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.52.24:754][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.52.24:754][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.52.24:794][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.52.24:819][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2018.07.22-15.53.02:985][713]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.53.03:009][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.53.03:010][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-15.53.03:010][713]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:53:03)
+[2018.07.22-15.53.03:010][713]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.53.03:017][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006023s)
+[2018.07.22-15.53.03:018][713]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.53.03:018][713]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.07.22-15.53.03:018][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007911s)
+[2018.07.22-15.53.03:060][713]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.53.03:071][713]LogInit: FAudioDevice initialized.
+[2018.07.22-15.53.03:101][713]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.53.03:103][713]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.53.03
+[2018.07.22-15.53.03:103][713]LogWorld: Bringing up level for play took: 0.001166
+[2018.07.22-15.53.03:116][713]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.53.03:123][713]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.03:125][713]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,069
+[2018.07.22-15.53.03:125][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.53.04:924][819]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.06:705][926]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.09:775][110]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.10:770][168]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.11:621][200]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.13:344][303]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.14:527][374]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.14:533][374]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.15:667][442]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.15:916][457]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.16:000][462]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.53.17:467][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.53.17:468][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.53.17:512][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.53.17:512][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.53.17:552][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.53.17:580][551]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2018.07.22-15.54.09:093][624]BlueprintLog: New page: Compile Minimal_Default
+[2018.07.22-15.54.09:128][624]LogBlueprint: Warning: [Compiler PersistentLevel.Minimal_Default] Could not find a variable named "fork_Blueprint" in 'Minimal_Default_C'.
+Make sure 'Minimal_Default_C' has been compiled for  Get fork_Blueprint
+[2018.07.22-15.54.09:132][624]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] The property associated with  Fork Blueprint  could not be found in '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C'
+[2018.07.22-15.54.09:297][624]LogBlueprint: Warning: [Compiler PersistentLevel.Minimal_Default] [7333,70] Compile of PersistentLevel.Minimal_Default failed. 1 Fatal Issue(s) 1 Warning(s) [in 203 ms] (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default)
+[2018.07.22-15.55.34:335][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.55.34:359][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.55.34:360][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.55.34:379][579]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.55.34:387][579]LogBlueprint: Warning: [Compiler PlayerPov] Could not find a variable named "fork_Blueprint" in 'PlayerPov_C'.
+Make sure 'PlayerPov_C' has been compiled for  Get fork_Blueprint
+[2018.07.22-15.55.34:388][579]LogBlueprint: Error: [Compiler PlayerPov] The property associated with  Fork Blueprint  could not be found in '/Game/PlayerPov.PlayerPov_C'
+[2018.07.22-15.55.34:391][579]LogBlueprint: Warning: [Compiler PlayerPov] [7418,79] Compile of PlayerPov failed. 1 Fatal Issue(s) 1 Warning(s) [in 25 ms] (/Game/PlayerPov.PlayerPov)
+[2018.07.22-15.55.34:525][579]LogPlayLevel: [PlayLevel] Compiling Minimal_Default before play...
+[2018.07.22-15.55.34:694][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 334 ms (2 blueprints)
+[2018.07.22-15.55.34:694][579]BlueprintLog: Blueprint PlayerPov failed to compile
+[2018.07.22-15.55.37:251][579]LogSlate: Window 'Message' being destroyed
+[2018.07.22-15.55.47:313][150]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default3A783C0B4A1CB5947EBCAE82411A0709.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-15.55.47:352][150]LogFileHelpers: Saving map 'Minimal_Default' took 0.411
+[2018.07.22-15.56.10:151][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.56.10:183][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.56.10:185][508]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.56.10:202][508]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.56.10:211][508]LogBlueprint: Error: [Compiler PlayerPov] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.07.22-15.56.10:214][508]LogBlueprint: Warning: [Compiler PlayerPov] [7454,61] Compile of PlayerPov failed. 1 Fatal Issue(s) 0 Warning(s) [in 24 ms] (/Game/PlayerPov.PlayerPov)
+[2018.07.22-15.56.10:360][508]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2018.07.22-15.56.10:361][508]BlueprintLog: Blueprint PlayerPov failed to compile
+[2018.07.22-15.56.12:728][508]LogSlate: Window 'Message' being destroyed
+[2018.07.22-15.56.48:253][615]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.56.48:286][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.56.48:287][615]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.56.48:294][615]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.56.48:454][615]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2018.07.22-15.56.48:454][615]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:56:48)
+[2018.07.22-15.56.48:454][615]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.56.48:461][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006294s)
+[2018.07.22-15.56.48:462][615]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.56.48:462][615]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2018.07.22-15.56.48:463][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008319s)
+[2018.07.22-15.56.48:499][615]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.56.48:512][615]LogInit: FAudioDevice initialized.
+[2018.07.22-15.56.48:548][615]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.56.48:550][615]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.56.48
+[2018.07.22-15.56.48:551][615]LogWorld: Bringing up level for play took: 0.001464
+[2018.07.22-15.56.48:564][615]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.56.48:570][615]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.48:571][615]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,514
+[2018.07.22-15.56.48:571][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.56.52:327][813]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.53:977][912]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.54:812][962]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.56:192][ 44]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.56:476][ 61]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.58:010][153]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.58:109][159]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.59:959][270]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.56.59:975][271]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.01:988][351]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.02:255][367]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.02:456][379]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.04:054][471]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.04:453][495]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.05:284][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.05:285][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.05:322][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.57.05:322][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.05:360][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.05:392][545]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2018.07.22-15.57.11:833][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.57.11:868][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.11:868][930]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.57.11:875][930]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.57.12:042][930]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2018.07.22-15.57.12:043][930]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:57:12)
+[2018.07.22-15.57.12:043][930]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.57.12:049][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005881s)
+[2018.07.22-15.57.12:050][930]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.57.12:050][930]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2018.07.22-15.57.12:050][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007567s)
+[2018.07.22-15.57.12:093][930]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.57.12:104][930]LogInit: FAudioDevice initialized.
+[2018.07.22-15.57.12:137][930]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.57.12:139][930]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.57.12
+[2018.07.22-15.57.12:140][930]LogWorld: Bringing up level for play took: 0.001349
+[2018.07.22-15.57.12:151][930]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.57.12:157][930]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.12:158][930]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,101
+[2018.07.22-15.57.12:158][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.16:907][186]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.19:143][320]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.21:112][435]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.21:541][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.21:542][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.21:582][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.57.21:582][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.21:617][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.21:646][462]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2018.07.22-15.57.45:530][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.57.45:564][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.45:565][872]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.57.45:573][872]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.57.45:745][872]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (1 blueprints)
+[2018.07.22-15.57.45:745][872]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:57:45)
+[2018.07.22-15.57.45:745][872]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.57.45:751][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005224s)
+[2018.07.22-15.57.45:752][872]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.57.45:752][872]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2018.07.22-15.57.45:752][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007243s)
+[2018.07.22-15.57.45:791][872]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.57.45:803][872]LogInit: FAudioDevice initialized.
+[2018.07.22-15.57.45:843][872]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.57.45:844][872]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.57.45
+[2018.07.22-15.57.45:845][872]LogWorld: Bringing up level for play took: 0.001378
+[2018.07.22-15.57.45:857][872]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.57.45:864][872]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.45:865][872]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,191
+[2018.07.22-15.57.45:865][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.47:755][982]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.49:271][ 73]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.50:621][154]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.51:905][231]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.53:705][339]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.54:371][379]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.55:505][447]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.57.55:767][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.55:768][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.55:803][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.57.55:803][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.57.55:840][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.57.55:880][465]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2018.07.22-15.58.06:219][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-15.58.36:282][616]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_DefaultAE36A0714A7BE9F88B4A70BE036AD178.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-15.58.36:321][616]LogFileHelpers: Saving map 'Minimal_Default' took 0.397
+[2018.07.22-15.59.14:830][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-15.59.14:864][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.59.14:865][828]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-15.59.14:883][828]LogPlayLevel: [PlayLevel] Compiling PlayerPov before play...
+[2018.07.22-15.59.15:048][828]LogPlayLevel: PlayLevel: Blueprint regeneration took 184 ms (1 blueprints)
+[2018.07.22-15.59.15:049][828]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 19:59:15)
+[2018.07.22-15.59.15:049][828]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-15.59.15:054][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005256s)
+[2018.07.22-15.59.15:056][828]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-15.59.15:056][828]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2018.07.22-15.59.15:056][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007314s)
+[2018.07.22-15.59.15:097][828]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-15.59.15:108][828]LogInit: FAudioDevice initialized.
+[2018.07.22-15.59.15:143][828]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-15.59.15:145][828]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-17.59.15
+[2018.07.22-15.59.15:146][828]LogWorld: Bringing up level for play took: 0.001432
+[2018.07.22-15.59.15:157][828]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-15.59.15:164][828]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.59.15:164][828]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,108
+[2018.07.22-15.59.15:165][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.59.16:881][929]VisLogBP: LogText: 'Event called'
+[2018.07.22-15.59.18:026][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.59.18:027][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.59.18:065][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-15.59.18:065][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-15.59.18:100][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-15.59.18:139][  0]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2018.07.22-15.59.29:222][663]LogSlate: Window 'Message Log' being destroyed
+[2018.07.22-15.59.29:227][663]LogSlate: Window 'Message Log' being destroyed
+[2018.07.22-15.59.57:946][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PongController" FILE="../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset" SILENT=true
+[2018.07.22-15.59.57:972][337]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/PongController36C82BF44105677BC441D5AD0479F02D.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/Blueprints/PongController.uasset'
+[2018.07.22-16.00.02:317][592]LogSlate: Window 'PongController' being destroyed
+[2018.07.22-16.00.02:321][592]LogSlate: Window 'PongController' being destroyed
+[2018.07.22-16.00.02:502][592]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-16.00.02:637][592]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.22-16.00.03:361][629]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-16.00.03:387][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.00.03:388][629]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.22-16.00.03:389][629]LogPlayLevel: [PlayLevel] Compiling PongController before play...
+[2018.07.22-16.00.03:392][629]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.PongController_C_1.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_11:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_24.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-16.00.03:527][629]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2018.07.22-16.00.03:527][629]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 20:00:03)
+[2018.07.22-16.00.03:528][629]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-16.00.03:533][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005257s)
+[2018.07.22-16.00.03:534][629]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-16.00.03:535][629]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2018.07.22-16.00.03:535][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007294s)
+[2018.07.22-16.00.03:569][629]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-16.00.03:582][629]LogInit: FAudioDevice initialized.
+[2018.07.22-16.00.03:613][629]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-16.00.03:615][629]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-18.00.03
+[2018.07.22-16.00.03:616][629]LogWorld: Bringing up level for play took: 0.001882
+[2018.07.22-16.00.03:627][629]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-16.00.03:634][629]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.00.03:634][629]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,422
+[2018.07.22-16.00.03:635][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.00.05:077][714]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.00.06:677][810]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.00.08:411][914]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.00.09:707][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.00.09:708][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-16.00.09:742][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-16.00.09:742][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.00.09:770][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-16.00.09:825][994]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2018.07.22-16.00.12:685][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.00.26:157][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.00.30:066][200]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerPov.PlayerPov
+[2018.07.22-16.00.36:331][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.00.54:771][601]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/fork_Blueprint.fork_Blueprint
+[2018.07.22-16.00.55:016][601]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.07.22-16.00.57:962][774]LogSlate: Window 'CompilerResults' being destroyed
+[2018.07.22-16.00.57:964][774]LogSlate: Window 'CompilerResults' being destroyed
+[2018.07.22-16.01.08:719][419]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint)
+[2018.07.22-16.01.10:762][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.01.17:243][927]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint)
+[2018.07.22-16.01.18:267][987]Cmd: DELETE
+[2018.07.22-16.01.18:267][987]Cmd: ACTOR DELETE
+[2018.07.22-16.01.18:281][987]LogEditorActor: Deleted Actor: fork_Blueprint_C
+[2018.07.22-16.01.18:316][987]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.07.22-16.01.21:293][166]LogEditorViewport: Clicking on Actor (LMB): fork_Blueprint_C (fork_Blueprint2)
+[2018.07.22-16.01.35:549][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.01.50:104][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.01.50:837][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.02.01:067][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/fork_Blueprint.fork_Blueprint
+[2018.07.22-16.02.10:954][ 65]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player_Start_Blueprint.Player_Start_Blueprint
+[2018.07.22-16.02.26:981][962]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PongController.PongController
+[2018.07.22-16.02.27:293][962]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_19:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-16.02.31:070][186]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.PongController_C_0.fork_Blueprint' is not static  (in blueprint "PongController"), cannot attach '/Engine/Transient.World_19:PersistentLevel.fork_Blueprint_GEN_VARIABLE_fork_Blueprint_C_CAT_2.StaticMeshComponent0' which is static to it. Aborting.
+[2018.07.22-16.02.38:957][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-16.02.39:024][652]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-16.02.39:047][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.02.39:047][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-16.02.39:048][652]PIE: New page: PIE session: Minimal_Default (22 juil. 2018 20:02:39)
+[2018.07.22-16.02.39:048][652]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.07.22-16.02.39:054][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006280s)
+[2018.07.22-16.02.39:056][652]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.07.22-16.02.39:056][652]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2018.07.22-16.02.39:056][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008389s)
+[2018.07.22-16.02.39:095][652]LogInit: XAudio2 using 'Haut-parleur/Ecouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-16.02.39:107][652]LogInit: FAudioDevice initialized.
+[2018.07.22-16.02.39:137][652]LogLoad: Game class is 'PongGameMode_C'
+[2018.07.22-16.02.39:139][652]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.07.22-18.02.39
+[2018.07.22-16.02.39:140][652]LogWorld: Bringing up level for play took: 0.001367
+[2018.07.22-16.02.39:157][652]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.02.39:158][652]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,101
+[2018.07.22-16.02.39:158][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.02.46:357][ 82]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.02.46:757][106]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.02.49:215][252]VisLogBP: LogText: 'Event called'
+[2018.07.22-16.02.49:461][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.02.49:461][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-16.02.49:507][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.22-16.02.49:507][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.07.22-16.02.49:537][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.22-16.02.49:571][269]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2018.07.22-16.02.52:038][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-16.02.52:322][411]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default1C867B2046511024EBA5158DD00567BD.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.07.22-16.02.52:462][411]LogSavePackage: Moving '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Saved/Minimal_Default_BuiltData7218A4BE47CBB19913640292DA755260.tmp' to '../../../../../../Users/Simon/Documents/Unreal Projects/Forknight/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
